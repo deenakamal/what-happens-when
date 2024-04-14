@@ -38,7 +38,8 @@ popular searches from the internet as a whole. As you are typing
 "google.com" many blocks of code run and the suggestions will be refined
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
-
+Example Scenario
+For instance, if the user starts typing "google.com," the auto-complete feature may suggest "google.com" even before the full term is typed, based on the analysis of previous user behavior and common internet searches.
 The "enter" key bottoms out
 ---------------------------
 
