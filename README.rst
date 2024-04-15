@@ -41,6 +41,7 @@ it.
 Example Scenario
 For instance, if the user starts typing "google.com," the auto-complete feature may suggest "google.com" even before the full term is typed, based on the analysis of previous user behavior and common internet searches.
 The "enter" key bottoms out
+
 ---------------------------
 
 To pick a zero point, let's choose the Enter key on the keyboard hitting the
